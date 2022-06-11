@@ -1,0 +1,26 @@
+segment_sources:
+  I765CF86B:
+    type: origin_type
+    relation: translation
+    language: en
+  I7EB5541D:
+    type: origin_type
+    relation: translation
+    language: fr
+  I9A6AF47F:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  3b992260279e40b0a1eb359da16c1255:
+    I765CF86B: 09a61370335243998501c647ce2df801
+    I7EB5541D: da6efb456dd64cbaa2bb08e45a0751b5
+    I9A6AF47F: 269eb827e3a4414e9d4b2f8b36c1ebc3
+  77a12f470c394a569347772b10464907:
+    I765CF86B: 6dafdd8dfd6d440383edfd5ee46d1b67
+    I7EB5541D: ef489204efb5486487d2a0b28fd7ed7c
+    I9A6AF47F: cb227f278e8c49b6b2b0edcca5415597
+  449336478f8346ed93988df0c4ba94a7:
+    I765CF86B: 904b484b26794b07aac92cb71da9a7d1
+    I7EB5541D: 436cc391b3414e339fbfb32273898879
+    I9A6AF47F: 382fa0a7a8464a538dd21db1f4a34737

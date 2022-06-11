@@ -1,0 +1,19 @@
+segment_sources:
+  I765CF86B:
+    type: origin_type
+    relation: translation
+    language: en
+  I9A6AF47F:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  79a326366bad4b28b565ffc62b0928a8:
+    I765CF86B: 01becf96fd004954b93a09351c6021a9
+    I9A6AF47F: 0c9b226cdbf949a78db4ed468e813f53
+  8173ad73e5014ad399a62883005587f3:
+    I765CF86B: df842e1142c44f87950d9b379454a92e
+    I9A6AF47F: 27fe92b40bf249ccbf42e17c2242657f
+  491a1879d0b549e5b1fc7a14c0c10db4:
+    I765CF86B: 40ba86bd055344dcb4b2234dbb44d62c
+    I9A6AF47F: d133d49c467446fbb331b2095774b9bf

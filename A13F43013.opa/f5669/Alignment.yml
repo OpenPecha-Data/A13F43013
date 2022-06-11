@@ -1,0 +1,40 @@
+segment_sources:
+  I765CF86B:
+    type: origin_type
+    relation: translation
+    language: en
+  I40C090A4:
+    type: origin_type
+    relation: translation
+    language: es
+  I7EB5541D:
+    type: origin_type
+    relation: translation
+    language: fr
+  I7ECB15AD:
+    type: origin_type
+    relation: translation
+    language: pt
+  I9A6AF47F:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  9f53f7b2fe55496581af534da263f1b4:
+    I765CF86B: 56568dd41110478587d1ef0c9bca4b08
+    I40C090A4: 12974e1425ed425ba0c24e4aa93a78f4
+    I7EB5541D: 6467bb13151c4eb4bb801f13f2a25986
+    I7ECB15AD: c007a983f10449e9915ddade850567a5
+    I9A6AF47F: 059b09349a32412ab297b1286a35004d
+  d55d85264235488fb06c9453ced88cd2:
+    I765CF86B: 3b989d8a995a42f58d7caeb5cdb1325b
+    I40C090A4: 30aff499491643818aed2f51cba02c09
+    I7EB5541D: 0158438a21e04f35af956d576f178a2f
+    I7ECB15AD: d76fd68e0c1e48469580e21f4ae49811
+    I9A6AF47F: 54904c9c324d44a7853ddd5b73a2e06d
+  bd82dd3fa2694d5984c1baac1f2fa720:
+    I765CF86B: d2a8ddf5b52d45ea8477554b4aa8101f
+    I40C090A4: 743cb616502341d0ad7d284fc35688da
+    I7EB5541D: 10dc6da49ac642d59606670668d0df9d
+    I7ECB15AD: fb874aa9f5a8490fbff2799688ee8db5
+    I9A6AF47F: 2783122f996049c2b67639bd03a7988e
